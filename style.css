@@ -1,0 +1,199 @@
+.fondo{
+    background-color: #ffc700;
+}
+
+.logocompleto{
+    width: 70%;
+    height: 70%;
+}
+
+.container-fluid{
+    background-color: #ffc700;
+        padding-top: 130px;
+        position: fixed;  
+}
+
+.navbar-expand-lg .navbar-collapse{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-link:hover{
+    cursor: pointer;
+}
+
+.nuestrosproductos{
+    margin-top: 2%;
+}
+.imagendeproducto{
+    width: 20%;
+    height: 20%;
+    margin-top: 3%;
+    border: solid brown 1%;
+    border-radius: 5%;
+}
+
+.imagenesdeproductos{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap-reverse;
+    box-sizing: border-box;
+}
+
+.btcomprar{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap-reverse;
+    box-sizing: border-box;
+}
+
+.bt:hover{
+background-color: brown;
+}
+
+a.nav-link{
+    font-size: 30px;
+}
+
+.portada{
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagenacompañaportada{
+    height: 100%;
+    width: 50%;
+}
+
+.textoquienesomos{
+    width:100%;
+}
+
+.imagenfondo{
+    height: 100%;
+    width: 100%;
+}
+
+.textos{
+    font-size: large;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.textos1{
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
+    color: brown;
+}
+
+.texto2{
+    text-align: center;
+    font-weight: bold;
+    color: brown;
+    text-decoration:underline;
+}
+
+.contacto{
+    width: 100%;
+    height: 300px;
+    margin-top: 3%;
+    display: flex;
+ }
+
+.datosdecontacto{
+    width: 50%;
+    height: 300px;
+    margin-top: 9%;
+
+}
+
+.titdatosdecontacto{
+    text-align: center;
+}
+
+.registrarse{
+    width: 50%;
+    height: 100%;
+}
+
+.logosredes{
+    width: 50px;
+    height: 50px;
+}
+
+.logosredes1{
+    width: 100px;
+    height: 100px;
+}
+
+.logosrrss{
+    margin-top: 5%;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+.logometa{
+    margin-right: 25%;
+}
+
+.logoig{
+    margin-left: 25%;
+}
+
+.logotwt{
+    margin-left: 60%;
+}
+
+.numerodecontacto{
+display: flex;
+}
+
+.maildecontacto{
+display: flex;
+}
+
+.formulario-consulta{
+    display: flex;
+    justify-content: center;
+}
+
+.display-block{
+    display: block;
+    margin: 10px;
+    padding: 10px 150px 10px 20px;
+}
+
+#consulta{
+    padding: 10px 150px 150px 20px;
+}
+
+.btn{
+display: flex;
+justify-content: center;
+color:#023047;
+
+}
+
+.btn:hover {
+    border-color: transparent;
+}
+
+.btn-enviar{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: #cceaf6;
+}
+
+.registrate{
+    text-align: center;
+}
+
+.derechosreservados{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 2%;
+}
